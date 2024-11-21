@@ -1,5 +1,5 @@
 # Forecasting Sales with Machine Learning Models
-This notebook will cover the follwing topics:
+This notebook will covers the follwing topics:
 - **Data Preprocessing and Feature Engineering**
 - **Building Machine Learning Models with Scikit-Learn**
   1. Random Forest
